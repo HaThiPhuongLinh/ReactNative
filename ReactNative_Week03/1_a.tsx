@@ -29,13 +29,11 @@ const YourApp = () => {
       </View>
       <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
         <Text style={{ fontSize: 24, fontWeight: 700, textAlign: "center" }}>
-          {" "}
           GROW{"\n"}YOUR BUSINESS
         </Text>
       </View>
       <View style={{ flex: 2, justifyContent: "center", alignItems: "center" }}>
         <Text style={{ fontSize: 14, fontWeight: 700, textAlign: "center" }}>
-          {" "}
           We will help you to grow your business using online server
         </Text>
       </View>
